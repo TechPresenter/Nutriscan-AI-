@@ -1,0 +1,6 @@
+{
+  "name": "NutriScan AI",
+  "description": "Scan fruits, vegetables, spices, herbs, nuts, and seeds with AI, view complete nutrition and health insights, and track daily goals offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
